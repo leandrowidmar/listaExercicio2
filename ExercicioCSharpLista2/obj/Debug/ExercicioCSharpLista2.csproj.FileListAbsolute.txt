@@ -1,0 +1,7 @@
+C:\Users\E38365\source\repos\ExercicioCSharpLista2\ExercicioCSharpLista2\bin\Debug\ExercicioCSharpLista2.exe.config
+C:\Users\E38365\source\repos\ExercicioCSharpLista2\ExercicioCSharpLista2\bin\Debug\ExercicioCSharpLista2.exe
+C:\Users\E38365\source\repos\ExercicioCSharpLista2\ExercicioCSharpLista2\bin\Debug\ExercicioCSharpLista2.pdb
+C:\Users\E38365\source\repos\ExercicioCSharpLista2\ExercicioCSharpLista2\obj\Debug\ExercicioCSharpLista2.csprojAssemblyReference.cache
+C:\Users\E38365\source\repos\ExercicioCSharpLista2\ExercicioCSharpLista2\obj\Debug\ExercicioCSharpLista2.csproj.CoreCompileInputs.cache
+C:\Users\E38365\source\repos\ExercicioCSharpLista2\ExercicioCSharpLista2\obj\Debug\ExercicioCSharpLista2.exe
+C:\Users\E38365\source\repos\ExercicioCSharpLista2\ExercicioCSharpLista2\obj\Debug\ExercicioCSharpLista2.pdb
